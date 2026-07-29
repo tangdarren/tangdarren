@@ -49,7 +49,7 @@ Hobbies:   Basketball • Financial Markets • Reading
 | **MusicBloom** | React, TypeScript, FastAPI, PostgreSQL, Azure DevOps | Gamified music application that transforms listening activity into an interactive virtual garden. | [Repository](https://github.com/tangdarren/musicbloom) |
 | **SPY Forecast Lab** | React, TypeScript, FastAPI, Python, scikit-learn | Explainable machine-learning dashboard that forecasts one-day and five-day SPY market direction. | [Repository](https://github.com/tangdarren/stock-market-dashboard) |
 | **ExpenSense** | React, Vite, OpenAI, OCR, Firebase, Firestore | Multi-agent reimbursement platform that validates receipts, automates approvals, routes exceptions, and maintains audit records. | [Repository](YOUR-EXPENSENSE-REPOSITORY-URL) |
-| **SafeCall** | WebSpatial VR, Spring Boot, RESTful APIs, JUnit | Immersive emergency-response training platform with guided virtual-reality scenarios for first responders. | [Repository](https://github.com/amannindra/Safe-call) |
+| **SafeCall** | WebSpatial VR, Spring Boot, RESTful APIs, JUnit | Immersive emergency-response training platform with guided virtual-reality scenarios for first responders. | [Repository](https://github.com/tangdarren/safecall_website) |
 | **Developer Portfolio** | React, TypeScript, Vite, Tailwind CSS | Responsive portfolio showcasing my software engineering experience, projects, education, and technical skills. | [Repository](https://github.com/tangdarren/portfolio) |
 | **Flutter Book Club** | Flutter, Dart, BLoC | Mobile book-club application featuring state management, sorting, navigation, and detailed book views. | [Repository](https://github.com/tangdarren/bloc_pattern) |
 | **Bank Marketing Predictor** | Python, pandas, scikit-learn | Machine-learning project comparing logistic regression, decision tree, and random forest models for term-deposit prediction. | Repository coming soon |
@@ -61,23 +61,63 @@ Hobbies:   Basketball • Financial Markets • Reading
 
 ### Languages
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C" title="C"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS"/>&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" height="40" alt="SQL" title="SQL"/></p>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="48" alt="Java" title="Java"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="48" alt="Python" title="Python"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" width="48" alt="C" title="C"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="48" alt="C++" title="C++"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="48" alt="JavaScript" title="JavaScript"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40" width="48" alt="Dart" title="Dart"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="48" alt="HTML" title="HTML"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="48" alt="CSS" title="CSS"/>
+<img align="left" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" height="40" alt="SQL" title="SQL"/>
+
+<br clear="left"/>
 
 ### Frameworks & Libraries
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" title="React"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" alt="JUnit" title="JUnit"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="pandas"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="40" alt="Material UI" title="Material UI"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" title="scikit-learn"/></p>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="48" alt="React" title="React"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="48" alt="Spring Boot" title="Spring Boot"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" width="48" alt="JUnit" title="JUnit"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="48" alt="Next.js" title="Next.js"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" width="48" alt="Node.js" title="Node.js"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="48" alt="FastAPI" title="FastAPI"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" width="48" alt="Flask" title="Flask"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" width="48" alt="pandas" title="pandas"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" width="48" alt="NumPy" title="NumPy"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="40" width="48" alt="Material UI" title="Material UI"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" width="48" alt="scikit-learn" title="scikit-learn"/>
+
+<br clear="left"/>
 
 ### Data & Cloud
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase Firestore" title="Firebase Firestore"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS"/></p>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" width="48" alt="Firebase Firestore" title="Firebase Firestore"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="56" alt="AWS" title="AWS"/>
+
+<br clear="left"/>
 
 ### Development & DevOps
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" title="Azure DevOps"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" title="Kubernetes"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman"/></p>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="48" alt="Git" title="Git"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" width="48" alt="GitHub Actions" title="GitHub Actions"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" width="48" alt="Azure DevOps" title="Azure DevOps"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="48" alt="Docker" title="Docker"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" width="48" alt="Kubernetes" title="Kubernetes"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" width="48" alt="Vite" title="Vite"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="48" alt="Postman" title="Postman"/>
+
+<br clear="left"/>
 
 ### AI & Enterprise Platforms
 
-<p align="left"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI" title="OpenAI"/>&nbsp;<img src="https://img.shields.io/badge/OpenAI%20Codex-111111?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI Codex" title="OpenAI Codex"/>&nbsp;<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="32" alt="Claude Code" title="Claude Code"/>&nbsp;<img src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge" height="32" alt="Model Context Protocol" title="Model Context Protocol"/>&nbsp;<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="32" alt="Salesforce" title="Salesforce"/></p>
+<img align="left" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI" title="OpenAI"/>
+<img align="left" src="https://img.shields.io/badge/OpenAI%20Codex-111111?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI Codex" title="OpenAI Codex"/>
+<img align="left" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="32" alt="Claude Code" title="Claude Code"/>
+<img align="left" src="https://img.shields.io/badge/MCP-5A45FF?style=for-the-badge" height="32" alt="Model Context Protocol" title="Model Context Protocol"/>
+<img align="left" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="32" alt="Salesforce" title="Salesforce"/>
+
+<br clear="left"/>
 
 ---
 
