@@ -44,16 +44,17 @@ Hobbies:   Basketball • Financial Markets • Reading
 
 ## 🚀 Projects
 
-| Project | Technologies | Description | Links |
-|---|---|---|---|
-| **MusicBloom** | React, TypeScript, FastAPI, PostgreSQL, Azure DevOps | Gamified music application that transforms listening activity into an interactive virtual garden. | [Repository](https://github.com/tangdarren/musicbloom) |
-| **SPY Forecast Lab** | React, TypeScript, FastAPI, Python, scikit-learn | Explainable machine-learning dashboard that forecasts one-day and five-day SPY market direction. | [Repository](https://github.com/tangdarren/stock-market-dashboard) |
-| **ExpenSense** | React, Vite, OpenAI, OCR, Firebase, Firestore | Multi-agent reimbursement platform that validates receipts, automates approvals, routes exceptions, and maintains audit records. | [Repository](YOUR-EXPENSENSE-REPOSITORY-URL) |
-| **SafeCall** | WebSpatial VR, Spring Boot, RESTful APIs, JUnit | Immersive emergency-response training platform with guided virtual-reality scenarios for first responders. | [Repository](https://github.com/tangdarren/safecall_website) |
-| **Developer Portfolio** | React, TypeScript, Vite, Tailwind CSS | Responsive portfolio showcasing my software engineering experience, projects, education, and technical skills. | [Repository](https://github.com/tangdarren/portfolio) |
-| **Flutter Book Club** | Flutter, Dart, BLoC | Mobile book-club application featuring state management, sorting, navigation, and detailed book views. | [Repository](https://github.com/tangdarren/bloc_pattern) |
-| **Bank Marketing Predictor** | Python, pandas, scikit-learn | Machine-learning project comparing logistic regression, decision tree, and random forest models for term-deposit prediction. | Repository coming soon |
-| **Student Dropout Predictor** | Python, pandas, scikit-learn | Classification project using categorical Naive Bayes, Gaussian Naive Bayes, decision trees, ROC curves, and AUC evaluation. | Repository coming soon |
+| Project | Technologies | Summary |
+|---|---|---|
+| [SQL Detective](https://github.com/tangdarren/sql-detective) | React, TypeScript, Spring Boot, PostgreSQL, Docker | Black-and-white mystery game where players solve a hotel theft by writing real, read-only SQL queries. |
+| [SPY Forecast Lab](https://github.com/tangdarren/stock-market-dashboard) | React, TypeScript, FastAPI, scikit-learn, SQLite | Explainable machine-learning dashboard with SPY forecasts, historical market analogues, and an interactive replay lab. |
+| [MusicBloom](https://github.com/tangdarren/musicbloom) | React, TypeScript, FastAPI, SQLAlchemy, Azure Pipelines | Full-stack music player that turns listening into a gamified garden with quests, achievements, and persistent progression. |
+| [ExpenSense](https://github.com/tangdarren/expensense) | React, FastAPI, Firebase, OCR, Vector Database | Multi-agent expense platform that validates receipts, applies reimbursement policies, routes reviews, and records auditable decisions. |
+| [SafeCall](https://github.com/tangdarren/safecall_website) | React, TypeScript, ElevenLabs, WebRTC, Google Maps | Voice-driven emergency dispatch simulator with live transcripts, automated scoring, and map-based location testing. |
+| [GoDo](https://github.com/tangdarren/godo-social-app) | Flutter, Dart, Firebase, Google Maps, BLoC | Cross-platform social discovery app for finding places, organizing events, and sharing local recommendations. |
+
+
+> **Note:** This is my current GitHub account; earlier projects were developed using previous accounts.
 
 ---
 
@@ -120,6 +121,7 @@ Hobbies:   Basketball • Financial Markets • Reading
 <br clear="left"/>
 
 ---
+
 ## 🤝 Connect With Me
 
 <table align="center">
@@ -132,11 +134,6 @@ Hobbies:   Basketball • Financial Markets • Reading
     <td align="center">
       <a href="mailto:tang.darren@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tangdarren">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"/>
       </a>
     </td>
   </tr>
