@@ -44,19 +44,13 @@ Full Stack Systems · AI/ML
 
 ## 01 / Currently
 
-<div align="center">
-
 - Pursuing an **M.S. in Computer Science** at Santa Clara University
 - Completing an **AI Agent Development Internship** at Veracyte
 - Preparing for **2027 software engineering opportunities**
 
-</div>
-
 ---
 
 ## 02 / Projects
-
-<div align="center">
 
 | Project | Technologies | Description | Links |
 |:---|:---|:---|:---|
@@ -69,67 +63,53 @@ Full Stack Systems · AI/ML
 | **GoDo** | Flutter, Dart | Find places, plan events, and share local recommendations. | [Repository](https://github.com/tangdarren/godo-social-app) |
 | **Portfolio** | React, TypeScript, Tailwind CSS | My personal website for my projects, background, and résumé. | [Repository](https://github.com/tangdarren/tangdarren.com) |
 
-</div>
-
 ---
 
 ## 03 / Tech Toolbox
 
-<h3 align="center">Languages</h3>
+### Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+<img src="https://img.shields.io/badge/Java-21262D?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C-21262D?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-21262D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-21262D?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Dart-21262D?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
+<img src="https://img.shields.io/badge/HTML-21262D?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-21262D?style=for-the-badge&logo=css&logoColor=663399" alt="CSS" />
+<img src="https://img.shields.io/badge/SQL-21262D?style=for-the-badge" alt="SQL" />
 
-<h3 align="center">Frameworks & Libraries</h3>
+### Frameworks & Libraries
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Material_UI-111111?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/JUnit-111111?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
-  <img src="https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+<img src="https://img.shields.io/badge/React-21262D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Spring_Boot-21262D?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Next.js-21262D?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-21262D?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/FastAPI-21262D?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-21262D?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Material_UI-21262D?style=for-the-badge&logo=mui&logoColor=007FFF" alt="Material UI" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-21262D?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/scikit--learn-21262D?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/JUnit-21262D?style=for-the-badge&logo=junit5&logoColor=25A162" alt="JUnit" />
+<img src="https://img.shields.io/badge/pandas-21262D?style=for-the-badge&logo=pandas&logoColor=E70488" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-21262D?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
 
-<h3 align="center">Tools & Platforms</h3>
+### Tools & Platforms
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure_DevOps-111111?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+<img src="https://img.shields.io/badge/Azure_DevOps-21262D?style=for-the-badge" alt="Azure DevOps" />
+<img src="https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-21262D?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Firebase-21262D?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+<img src="https://img.shields.io/badge/AWS-21262D?style=for-the-badge" alt="AWS" />
+<img src="https://img.shields.io/badge/Vite-21262D?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
 
-<h3 align="center">AI & Enterprise Platforms</h3>
+### AI & Enterprise Platforms
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Salesforce-111111?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-</p>
+<img src="https://img.shields.io/badge/OpenAI-21262D?style=for-the-badge" alt="OpenAI" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-21262D?style=for-the-badge" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/Claude_Code-21262D?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code" />
+<img src="https://img.shields.io/badge/MCP-21262D?style=for-the-badge" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/Salesforce-21262D?style=for-the-badge" alt="Salesforce" />
 
 ---
 
