@@ -7,9 +7,9 @@
   />
 </p>
 
-<p align="center">
+<h3 align="center">
   Software Engineer · AI Agent Engineer · Full-Stack Engineer
-</p>
+</h3>
 
 ---
 
@@ -25,14 +25,12 @@
       </td>
       <td align="left" valign="middle">
 
-**ROLE**  
-Software Engineer · AI Agent Engineer · Full-Stack Engineer
-
-**EDUCATION**  
-M.S. Computer Science @ Santa Clara University
 
 **LOCATION**  
 San Francisco, CA
+
+**EDUCATION**  
+M.S. Computer Science @ Santa Clara University
 
 **FOCUS**  
 Full Stack Systems · AI/ML
@@ -44,8 +42,8 @@ Full Stack Systems · AI/ML
 
 ## 01 / Currently
 
-- Pursuing an **M.S. in Computer Science** at Santa Clara University
 - Completing an **AI Agent Development Internship** at Veracyte
+- Pursuing an **M.S. in Computer Science** at Santa Clara University
 - Preparing for **2027 software engineering opportunities**
 
 ---
