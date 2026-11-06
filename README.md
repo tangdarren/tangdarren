@@ -39,9 +39,9 @@
 <p align="center"><img src="./profile/projects-title.svg" alt="My Projects" width="200" /></p>
 
 <p align="center">
-  <a href="https://github.com/tangdarren/stock-market-dashboard"><img src="./profile/tempest-preview.png" alt="Tempest preview" width="47%" /></a>
+  <a href="https://github.com/tangdarren/stock-market-dashboard"><img src="./profile/tempest-preview.jpg" alt="Tempest preview" width="47%" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/tangdarren/minispark"><img src="./profile/minispark-preview.png" alt="MiniSpark preview" width="47%" /></a>
+  <a href="https://github.com/tangdarren/minispark"><img src="./profile/minispark-preview.jpg" alt="MiniSpark preview" width="47%" /></a>
   <br />
   <a href="https://github.com/tangdarren/stock-market-dashboard"><img src="./profile/cards/tempest.svg" alt="Tempest" width="47%" /></a>
   &nbsp;&nbsp;
@@ -49,9 +49,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tangdarren/musicbloom"><img src="./profile/musicbloom-preview.png" alt="MusicBloom preview" width="47%" /></a>
+  <a href="https://github.com/tangdarren/musicbloom"><img src="./profile/musicbloom-preview.jpg" alt="MusicBloom preview" width="47%" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/tangdarren/arc-gpt"><img src="./profile/arcgpt-preview.png" alt="Arc GPT preview" width="47%" /></a>
+  <a href="https://github.com/tangdarren/arc-gpt"><img src="./profile/arcgpt-preview.jpg" alt="Arc GPT preview" width="47%" /></a>
   <br />
   <a href="https://github.com/tangdarren/musicbloom"><img src="./profile/cards/musicbloom.svg" alt="MusicBloom" width="47%" /></a>
   &nbsp;&nbsp;
@@ -59,9 +59,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tangdarren/safecall-website"><img src="./profile/safecall-preview.png" alt="SafeCall preview" width="47%" /></a>
+  <a href="https://github.com/tangdarren/safecall-website"><img src="./profile/safecall-preview.jpg" alt="SafeCall preview" width="47%" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/tangdarren/unix_shell"><img src="./profile/unix-shell-preview.png" alt="Unix Shell preview" width="47%" /></a>
+  <a href="https://github.com/tangdarren/unix_shell"><img src="./profile/unix-shell-preview.jpg" alt="Unix Shell preview" width="47%" /></a>
   <br />
   <a href="https://github.com/tangdarren/safecall-website"><img src="./profile/cards/safecall.svg" alt="SafeCall" width="47%" /></a>
   &nbsp;&nbsp;
