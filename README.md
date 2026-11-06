@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&duration=1800&pause=1000&color=00BFA6&center=true&vCenter=true&width=900&repeat=false&lines=Hi%2C+I'm+Darren+Tang"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&duration=3500&pause=1000&color=00BFA6&center=true&vCenter=true&width=900&repeat=false&lines=Hi%2C+I'm+Darren+Tang"
     alt="Hi, I'm Darren Tang"
   />
 </p>
